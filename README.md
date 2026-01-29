@@ -13,6 +13,7 @@ Currently studying computer science at Avans university.
 [![django](https://img.shields.io/badge/django-0C4B33.svg?&style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com)
 [![aspdotnet](https://img.shields.io/badge/asp.net-4d29c9.svg?&style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [![tailwindcss](https://img.shields.io/badge/tailwindcss-38bdf8.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![node.js](https://img.shields.io/badge/node.js-%62B548.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev)
 
 #### Databases:
 [![firebase](https://img.shields.io/badge/firebase-FFCB2D.svg?&style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
@@ -20,11 +21,7 @@ Currently studying computer science at Avans university.
 [![mongodb](https://img.shields.io/badge/mongodb-00ed64.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 #### Other: 
-[![node.js](https://img.shields.io/badge/node.js-%62B548.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev)
 [![git](https://img.shields.io/badge/git-F44D27.svg?&style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-
-#### Environment:
-[![neovim](https://img.shields.io/badge/neovim-58943a.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
-[![vscode](https://img.shields.io/badge/vscode-22A6F1.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
-[![fedora](https://img.shields.io/badge/fedora-52a2da.svg?&style=for-the-badge&logo=fedora&logoColor=white)](https://getfedora.org/)
+[![vscode](https://img.shields.io/badge/vscode-22A6F1.svg?&style=for-the-badge&logo=codevisualstudio&logoColor=white)](https://code.visualstudio.com)
+[![ubuntu](https://img.shields.io/badge/ubuntu-52a2da.svg?&style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![gitkraken](https://img.shields.io/badge/gitkraken-168d83.svg?&style=for-the-badge&logo=gitkraken&logoColor=white)](https://www.gitkraken.com/)
